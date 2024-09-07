@@ -8,4 +8,5 @@
 ## Snippet
 
 
-![Sorting-Visualizer](https://github.com/user-attachments/assets/e2a0ad8e-f6d3-4417-b9bb-af0c977def91)
+
+![Sorting-Visualizer-3D](https://github.com/user-attachments/assets/641ec09c-6a35-4a02-80ea-682a45be58bf)
